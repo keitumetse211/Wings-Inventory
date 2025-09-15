@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "French Polony",
+    "description": "Freshly made with Pork",
+    "category": "Meat",
+    "price": 2.5,
+    "quantity": 20
+  },
+  {
+    "id": 2,
+    "name": "Simba",
+    "description": "Backed Potatoes with chutney",
+    "category": "Snack",
+    "price": 3.0,
+    "quantity": 15
+  }
+]
